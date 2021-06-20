@@ -78,7 +78,7 @@ const App = () => {
 
     return (
       <InputContainer>
-        <TextInput message='A valid has between 2 and 25 characters' handleUpdate={handleChange} value={input.name} name='name' submit={submit} handleNext={onNext} />
+        <TextInput message='A valid name has between 2 and 25 characters' handleUpdate={handleChange} value={input.name} name='name' submit={submit} handleNext={onNext} />
       </InputContainer>
     )
   }
