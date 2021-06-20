@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.preview-input{
+  margin: 10px 0;
+}
+.input-title{
+  color: #853592;
+  font-weight: bold;
+}
