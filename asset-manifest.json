@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/form-exercise/static/css/main.e2e3dbb0.chunk.css",
+    "main.js": "/form-exercise/static/js/main.ba9fa38c.chunk.js",
+    "main.js.map": "/form-exercise/static/js/main.ba9fa38c.chunk.js.map",
+    "runtime-main.js": "/form-exercise/static/js/runtime-main.afb0f995.js",
+    "runtime-main.js.map": "/form-exercise/static/js/runtime-main.afb0f995.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/form-exercise/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.f2a67d91.chunk.js": "/form-exercise/static/js/2.f2a67d91.chunk.js",
+    "static/js/2.f2a67d91.chunk.js.map": "/form-exercise/static/js/2.f2a67d91.chunk.js.map",
+    "static/js/3.4bebe592.chunk.js": "/form-exercise/static/js/3.4bebe592.chunk.js",
+    "static/js/3.4bebe592.chunk.js.map": "/form-exercise/static/js/3.4bebe592.chunk.js.map",
+    "index.html": "/form-exercise/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/form-exercise/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.e2e3dbb0.chunk.css.map": "/form-exercise/static/css/main.e2e3dbb0.chunk.css.map",
+    "static/js/2.f2a67d91.chunk.js.LICENSE.txt": "/form-exercise/static/js/2.f2a67d91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afb0f995.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.f2a67d91.chunk.js",
+    "static/css/main.e2e3dbb0.chunk.css",
+    "static/js/main.ba9fa38c.chunk.js"
+  ]
+}
