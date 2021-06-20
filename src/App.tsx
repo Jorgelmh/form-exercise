@@ -92,7 +92,7 @@ const App = () => {
 
     /* Disable next button when no email has been provided */
     !input.email && submit && setSubmit(false)
-    input.email && !submit && setSubmit(true)
+    input.email.match(/\S+@\S+\.\S+/) && !submit && setSubmit(true)
 
     return(
       <InputContainer>
